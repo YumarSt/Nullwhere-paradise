@@ -1,6 +1,6 @@
 <div align="center">
 
-# MiyMods
+# Nullwhere-paradise
 ## Модпак для Minecraft 1.21.1 (NeoForge)
 
 [![NeoForge](https://img.shields.io/badge/NeoForge-1.21.1-blue?logo=curseforge&logoColor=white)](https://neoforged.net/)
