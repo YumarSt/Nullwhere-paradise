@@ -1,5 +1,5 @@
 <div>
-</div aling = "center> Nullwhere paradise modpack <div>
+<div aling = "center"> Nullwhere paradise modpack <div>
 
 [![NeoForge](https://img.shields.io/badge/NeoForge-1.21.1-blue?logo=curseforge&logoColor=white)](https://neoforged.net/)
 
@@ -7,7 +7,7 @@ Nullwhere paradise modpack - сборка модов на Minecraft 1.21.1 с я
 Сборку можно характеризовать как стимпанк, центром которого является технологический мод create и его аддон create aeronautics, с большим акцентом на исследование мира, строительство и готовку. Генерация обычного мира обеспечивается Terralith, Biomes We've Gone и Continents.  
  
 
-</div>
+<div>
 
 ---
 <!--
