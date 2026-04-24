@@ -1,12 +1,12 @@
 <div align="center">
 
-# Nullwhere-paradise
-## Модпак для Minecraft 1.21.1 (NeoForge)
+# Nullwhere paradise modpack
 
 [![NeoForge](https://img.shields.io/badge/NeoForge-1.21.1-blue?logo=curseforge&logoColor=white)](https://neoforged.net/)
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-green?logo=minecraft&logoColor=white)](https://minecraft.net)
 
-**Техническая сборка основанная на Create | Исследование биомов и данжей | Летательные аппараты**
+Nullwhere paradise modpack - сборка модов на Minecraft 1.21.1 с ядром NeoForge для сервера Nullwhere paradise. Сборка рассчитана на размеренный геймплей, исследований и строительство.  
+Сборку можно характеризовать как стимпанк, центром которого является технологический мод create и его аддон create aeronautics, с большим акцентом на исследование мира, строительство и готовку. Генерация обычного мира обеспечивается Terralith, Biomes We've Gone и Continents.  
+ 
 
 </div>
 
