@@ -1,7 +1,7 @@
 <div>
-
+<div alling = 'center'>
 # Nullwhere paradise modpack
-
+<div>
 [![NeoForge](https://img.shields.io/badge/NeoForge-1.21.1-blue?logo=curseforge&logoColor=white)](https://neoforged.net/)
 
 Nullwhere paradise modpack - сборка модов на Minecraft 1.21.1 с ядром NeoForge для сервера Nullwhere paradise. Сборка рассчитана на размеренный геймплей, исследований и строительство.  
