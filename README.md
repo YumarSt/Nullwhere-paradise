@@ -29,7 +29,7 @@
 
 ## Установка
 
-1. Скачайте и установите **[NeoForge 1.21.1](https://neoforged.net/)**
+1. Скачайте и установите **[NeoForge 1.21.1](https://neoforged.net/)** (необходим vpn для захода на сайт)
   <details>
   <summary><b>Установка NeoForge (нажмите, чтобы развернуть)</b></summary>
 
