@@ -130,7 +130,7 @@
 | **Alex's Mobs** | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) | 70+ новых животных по всему миру |
 
 ---
--->
+
 ### 🔧 Моды для удобства (QoL)
 
 | Мод | Ссылка | Описание |
@@ -149,4 +149,4 @@
 | **FerriteCore** | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ferritecore) | Снижает потребление оперативной памяти |
 
 ---
-
+-->
