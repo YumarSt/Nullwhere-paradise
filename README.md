@@ -29,7 +29,7 @@ Nullwhere paradise modpack - сборка модов на Minecraft 1.21.1 с я
 ---
 -->
 ## Установка
-1. Скачайте и установите **[NeoForge 1.21.1](https://neoforged.net/)** (необходим vpn для захода на сайт)
+1. Скачайте и установите **[NeoForge 1.21.1](https://neoforged.net/)** (необходим vpn для захода на сайт) или же скачайте из этого репозитория.
   <details>
   <summary><b>Установка NeoForge (нажмите, чтобы развернуть)</b></summary>
 
